@@ -1,0 +1,19 @@
+{
+    "log_limit": {
+        "description": "日志截屏条数限制",
+        "type": "int",
+        "hint": "对日志截屏条数进行限制，注意上限为200条",
+        "slider": {
+            "min": 1,
+            "max": 200,
+            "step": 1
+        },
+        "default": 200
+    },
+    "pillowmd_style_dir": {
+        "description": "Pillowmd样式文件目录",
+        "hint": "支持相对路径和绝对路径, 请用 / 隔开",
+        "type": "string",
+        "default": "data/plugins/astrbot_plugin_logger/t2i_style"
+    }
+}
