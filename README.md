@@ -6,7 +6,7 @@
 
 # astrbot_plugin_logger
 
-_✨ 截图插件 ✨_  
+_✨ 日志插件 ✨_  
 
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
